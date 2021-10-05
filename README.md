@@ -1,4 +1,4 @@
-- 💻 Fedora 34 & Debian 11
+- 💻 Fedora 34 & Debian Sid
 - 👀 Software Developer & Information Activist
 - 🔗 https://mrbeebenson.github.io
 - ✉️ Matrix: [@mrbeebenson:matrix.org](https://matrix.to/#/@mrbeebenson:matrix.org)
