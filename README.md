@@ -1,4 +1,4 @@
-- 💻 Fedora 35 & Manjaro
+- 💻 Pop!_OS 21.10
 - 👀 Software Developer & Information Activist
 - 🔗 https://mrbeebenson.github.io
 - ✉️ Matrix: [@mrbeebenson:matrix.org](https://matrix.to/#/@mrbeebenson:matrix.org)
