@@ -1,4 +1,5 @@
-- 💻 Ubuntu 21.10
+- 💻 Fedora 35
+  - ⚙️ GNOME 41
 - 👀 Software Developer & Information Activist
 - 🔗 https://mrbeebenson.github.io
 - ✉️ Matrix: [@mrbeebenson:matrix.org](https://matrix.to/#/@mrbeebenson:matrix.org)
