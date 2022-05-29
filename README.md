@@ -1,12 +1,13 @@
 *"I use Rolling Rhino, btw"*
 
-- 💻 Ubuntu 22.04 LTS
-  - ⚙️ GNOME 42
+- 💻 [Bedrock Linux](https://bedrocklinux.org)
+  - ⚙️ Strata: Ubuntu + i3wm
+  - ⚙️ Strata: Arch Linux kernel + Applications
 - 👀 Software Developer & Information Activist
 - 🔗 https://mrbeebenson.github.io
 - ✉️ Matrix: [@mrbeebenson:matrix.org](https://matrix.to/#/@mrbeebenson:matrix.org)
 
-Project Lead [@rollingrhinoremix](https://rollingrhinoremix.github.io)
+Project Lead [@rollingrhinoremix](https://rollingrhino.org)
 
 <!---
 :o hello there
